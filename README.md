@@ -1,3 +1,8 @@
-This profile is used as a blog 
+My lab set ups: 
+
+1-
+2-
+3- 
+
 
 
