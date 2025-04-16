@@ -7,9 +7,10 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="70"/>
 
-  <h3 align="center">Certification pending:</h3>
+  <h3 align="center">Certifications pending:</h3>
   <p align="center">
   <img src="./cyberops.png" alt="cyberops" width="140"/>
+  <img src="./sol.png" alt="sol" width="140"/>  
 </p>
 </p>
 
