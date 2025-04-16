@@ -8,6 +8,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="70"/>
 
   <h3 align="center">Certification pending:</h3>
-  <img src="./README/cyberops.png" alt="CyberOps CCNA" width="400"/>
+  <p align="center">
+  <img src="./cyberops.png" alt="cyberops" width="120"/>
+</p>
 </p>
 
