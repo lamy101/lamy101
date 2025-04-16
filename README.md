@@ -1,8 +1,13 @@
-My lab set ups: 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+</head>
+<body>
 
-1-
-2-
-3- 
+#232F3E
+#3776AB
 
-
+</body>
+</html>
 
