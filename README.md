@@ -9,7 +9,7 @@
 
   <h3 align="center">Certification pending:</h3>
   <p align="center">
-  <img src="./cyberops.png" alt="cyberops" width="120"/>
+  <img src="./cyberops.png" alt="cyberops" width="140"/>
 </p>
 </p>
 
