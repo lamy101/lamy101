@@ -1,4 +1,11 @@
-<h3 align="center">Skills demonstrated:</h3>
+<h3 align="center">Projects: </h3>
+  1-
+  <br>
+  2-
+  <br>
+  3-
+  
+  <h3 align="center">Skills demonstrated:</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="70"/>
@@ -12,12 +19,6 @@
   <img src="./cyberops.png" alt="cyberops" width="120"/>
   <img src="./sol.png" alt="sol" width="120"/> 
 
-  <h3 align="center">Projects: </h3>
-  1-
-  <br>
-  2-
-  <br>
-  3-
 </p>
 </p>
 
