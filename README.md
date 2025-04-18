@@ -10,7 +10,14 @@
   <h3 align="center">Certifications pending:</h3>
   <p align="center">
   <img src="./cyberops.png" alt="cyberops" width="120"/>
-  <img src="./sol.png" alt="sol" width="120"/>  
+  <img src="./sol.png" alt="sol" width="120"/> 
+
+  <h3 align="center">Projects: </h3>
+  1-
+  <br>
+  2-
+  <br>
+  3-
 </p>
 </p>
 
