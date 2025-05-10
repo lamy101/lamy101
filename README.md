@@ -16,11 +16,6 @@
   <img src="./PowerShell_5.0_icon.png" alt="PS" width="70"/>
   <img src="./AD1.png" alt="PS" width="100"/>
 
-  <h3 align="center">Certifications pending:</h3>
-  <p align="center">
-  <img src="./cyberops.png" alt="cyberops" width="120"/>
-  <img src="./sol.png" alt="sol" width="120"/> 
-
 </p>
 </p>
 
