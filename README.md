@@ -1,11 +1,8 @@
 <h3 align="center">Projects: </h3>
-  1- Build a web application on AWS 
+  1- SecurityOnion 
   <br>
-  2-
-  <br>
-  3-
-  <br>
-  4-
+  2- ELK 
+  
   
   <h3 align="center">Skills demonstrated:</h3>
 
