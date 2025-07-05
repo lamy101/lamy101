@@ -13,7 +13,7 @@ Coming soon
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="70"/>
   <img src="./PowerShell_5.0_icon.png" alt="PS" width="70"/>
-  <img src="./AD1.png" alt="PS" width="100"/>
+  
 
 </p>
 </p>
