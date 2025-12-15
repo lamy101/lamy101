@@ -2,7 +2,7 @@
 <br>
 
 
-<p align="center">
+<p align="left">
   <img src="blob.png" alt="Pen" width="90"/>
 
 </p>
