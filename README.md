@@ -17,9 +17,9 @@ My name is Lamyae, I have M.S degree in Cybersecurity and Information Assurance 
 <h2>ls projects:</h2>
 - Dynamic website hosted in AWS
 <br>
-- Pentest assessment of the website
-<br>
 - Python automation scripts
+<br>
+- Pentest assessment of the website
 <br>
 - DLP 
 <br>
