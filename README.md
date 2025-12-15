@@ -12,6 +12,7 @@ My name is Lamyae, I have M.S degree in Cybersecurity and Information Assurance 
    <img src="oscp.png" alt="OS" width="90"/>
    <img src="devnet.png" alt="dev" width="130"/>
    <img src="aws.png" alt="aw" width="90"/>
+   <img src="zero.jpg" alt="aw" width="90"/>
 </p>
 <h2>Projects:</h2>
 - Dynamic website hosted in AWS
