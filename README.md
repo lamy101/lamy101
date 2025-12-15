@@ -1,3 +1,6 @@
+<h2>Whoami:</h2>
+<br>
+My name is Lamyae, I have M.S degree in Cybersecurity and Information Assurance and I am currently working for a government contractor as a SOC Analyst with 6 years of accumumulated IT experience.
 <h2>Certifications:</h2>
 <br>
 
@@ -10,5 +13,13 @@
    <img src="devnet.png" alt="dev" width="130"/>
    <img src="aws.png" alt="aw" width="90"/>
 </p>
-</p>
-
+<h2>Projects:</h2>
+- Dynamic website hosted in AWS
+<br>
+- Pentest assessment of the website
+<br>
+- Python automation scripts
+<br>
+- Bug Bounty documentation
+<br>
+- Leetcode exercises
