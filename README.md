@@ -21,6 +21,7 @@ My name is Lamyae, I have M.S degree in Cybersecurity and Information Assurance 
 <br>
 - Python automation scripts
 <br>
-- Bug Bounty documentation
+- DLP 
 <br>
-- Leetcode exercises
+- Bug Bounty findings
+
