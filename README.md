@@ -19,6 +19,8 @@ My name is Lamyae, I have M.S degree in Cybersecurity and Information Assurance 
 <br>
 - Python automation scripts
 <br>
+- Yara project
+<br>
 - Pentest assessment of the website
 <br>
 - DLP 
