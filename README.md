@@ -19,19 +19,9 @@ My name is Lamyae, I have a M.S degree in Cybersecurity and Information Assuranc
 <br>
 - Python automation scripts
 <br>
-- Yara project
-<br>
-- Pentest assessment of the website
-<br>
-- DLP 
-<br>
-- Bug Bounty documentation
-<br>
-- CTF Challenges documentation
-<br>
-- Compliance documentation 
-<br>
-- ML, Gen-AI, LLM project
+- ML, Gen-AI, LLM expertise
+
+
 
 <h2>ls tryhackme/achievements:</h2>
 https://tryhackme.com/p/yamsrwx
