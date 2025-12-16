@@ -30,6 +30,8 @@ My name is Lamyae, I have M.S degree in Cybersecurity and Information Assurance 
 - CTF Challenges documentation
 <br>
 - Compliance documentation 
+<br>
+- ML, Gen-AI, LLM project
 
 <h2>ls tryhackme/achievements:</h2>
 https://tryhackme.com/p/yamsrwx
