@@ -1,7 +1,7 @@
 <h2>$ whoami</h2>
 <br>
 My name is Lamyae, I have a M.S degree in Cybersecurity and Information Assurance and I am currently working for a government contractor as a SOC Analyst with 6 years of accumumulated IT experience.
-<h2>ls certifications:</h2>
+<h2>$ ls certifications</h2>
 <br>
 
 
