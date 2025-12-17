@@ -22,6 +22,8 @@ My name is Lamyae, I have a M.S degree in Cybersecurity and Information Assuranc
 - ML, Gen-AI, LLM expertise
 <br>
 - Pentesting components
+<br>
+- Active Directory project
 
 
 <h2>$ ls tryhackme/achievements</h2>
