@@ -20,7 +20,8 @@ My name is Lamyae, I have a M.S degree in Cybersecurity and Information Assuranc
 - Python automation scripts
 <br>
 - ML, Gen-AI, LLM expertise
-
+<br>
+- Pentesting components
 
 
 <h2>$ ls tryhackme/achievements</h2>
