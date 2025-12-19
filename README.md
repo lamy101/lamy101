@@ -26,6 +26,8 @@ My name is Lamyae, I have a M.S degree in Cybersecurity and Information Assuranc
 - Active Directory project
 <br>
 - Ransomware project
+<br>
+- Malware Analysis project
 
 <h2>$ ls tryhackme/achievements</h2>
 https://tryhackme.com/p/yamsrwx
