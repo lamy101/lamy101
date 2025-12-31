@@ -13,6 +13,7 @@ My name is Lamyae. I will be using this GitHub account to show the different pro
    <img src="devnet.png" alt="dev" width="130"/>
    <img src="aws.png" alt="aw" width="90"/>
    <img src="zero.jpg" alt="aw" width="110"/>
+  <img src="burp.webp" alt="aw" width="110"/>
 </p>
 <h2>$ ls projects</h2>
 - Dynamic website hosted in AWS
