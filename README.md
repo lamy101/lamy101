@@ -26,5 +26,3 @@ My name is Lamyae. I will be using this GitHub account to show the different pro
 - BurpSuite project
 <br>
 - Metasploit project
-<h2>$ ls tryhackme/achievements</h2>
-https://tryhackme.com/p/yamsrwx
