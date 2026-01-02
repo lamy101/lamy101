@@ -16,14 +16,12 @@ My name is Lamyae. I will be using this GitHub account to show the different pro
   <img src="burp.webp" alt="aw" width="110"/>
 </p>
 <h2>$ ls projects</h2>
-- Dynamic website hosted in AWS
-<br>
+
 - Python automation scripts
 <br>
+- Cisco Automation
+<br>
+- BurpSuite
+<br>
 - ML, Gen-AI, LLM expertise
-<br>
-- Working with APIs
-<br>
-- BurpSuite project
-<br>
-- Metasploit project
+
