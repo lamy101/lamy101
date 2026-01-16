@@ -17,9 +17,9 @@ My name is Lamyae. I will be using this GitHub account to show the different pro
 <br>
 - Python automation scripts
 <br>
-- Cisco Automation
+- CPTS prep
 <br>
-- CTF challenges
+- Cisco Devnet
 <br>
 - ML, Gen-AI, LLM expertise
 
