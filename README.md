@@ -13,13 +13,13 @@ My name is Lamyae. I will be using this GitHub account to show the different pro
    <img src="devnet.png" alt="dev" width="130"/>
    <img src="aws.png" alt="aw" width="90"/>
 </p>
-<h2>$ ls projects</h2>
+<h2>$ ls repos</h2>
 <br>
-- Python automation scripts
+- Python scripts
 <br>
-- CPTS prep
+- OSCP prep 
 <br>
-- Cisco Devnet
+- Cisco Automation
 <br>
 - ML, Gen-AI, LLM expertise
 
