@@ -10,7 +10,6 @@ My name is Lamyae. I will be using this GitHub account to show the different pro
 <br>
   <img src="azure-security.png" alt="Az" width="90"/>
    <img src="oscp.png" alt="OS" width="90"/>
-   <img src="devnet.png" alt="dev" width="130"/>
    <img src="aws.png" alt="aw" width="90"/>
 </p>
 <h2>$ ls repos</h2>
@@ -18,8 +17,6 @@ My name is Lamyae. I will be using this GitHub account to show the different pro
 - Python scripts
 <br>
 - OSCP prep 
-<br>
-- Cisco Automation
 <br>
 - ML, Gen-AI, LLM expertise
 
