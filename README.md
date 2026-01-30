@@ -19,4 +19,6 @@ My name is Lamyae. I will be using this GitHub account to show the different pro
 - OSCP prep 
 <br>
 - ML, Gen-AI, LLM expertise
+<br>
+- DevOps-projects
 
