@@ -13,6 +13,7 @@ My name is Lamyae. I will be using this GitHub account to show the different pro
    <img src="aws.png" alt="aw" width="90"/>
 </p>
 <h2>$ ls repos</h2>
+- Azure prep
 <br>
 - Python scripts
 <br>
