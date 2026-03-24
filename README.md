@@ -9,6 +9,7 @@ My name is Lamyae. I will be using this GitHub account to show the different pro
   <img src="blob.png" alt="Pen" width="90"/>
 <br>
   <img src="azure-security.png" alt="Az" width="90"/>
+  <img src="cpts.webp" alt="aw" width="90"/>
    <img src="oscp.png" alt="OS" width="90"/>
    <img src="aws.png" alt="aw" width="90"/>
 </p>
