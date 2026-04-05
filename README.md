@@ -15,13 +15,13 @@ My name is Lamyae. I will be using this GitHub account to show the different pro
   <img src="coae.webp" alt="aw" width="90"/>
 </p>
 <h2>$ ls repos</h2>
-- Azure prep
+- AZ-500 prep
 <br>
-- Python scripts
+- Python automation
 <br>
-- OSCP prep 
+- CPTS prep 
 <br>
-- ML, Gen-AI, LLM expertise
+- AI Red Teaming prep
 <br>
-- DevOps-projects
+- AWS Security prep
 
