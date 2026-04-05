@@ -15,13 +15,12 @@ My name is Lamyae. I will be using this GitHub account to show the different pro
   <img src="coae.webp" alt="aw" width="90"/>
 </p>
 <h2>$ ls repos</h2>
-- AZ-500 prep
+- Bug Bounty prep
 <br>
 - Python automation
 <br>
 - CPTS prep 
 <br>
-- AI Red Teaming prep
-<br>
-- AWS Security prep
+- AI Red Teaming (COAE) prep 
+
 
