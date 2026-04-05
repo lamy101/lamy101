@@ -12,6 +12,7 @@ My name is Lamyae. I will be using this GitHub account to show the different pro
   <img src="cpts.webp" alt="aw" width="100"/>
    <img src="oscp.png" alt="OS" width="90"/>
    <img src="aws.png" alt="aw" width="90"/>
+  <img src="coae.webp" alt="aw" width="90"/>
 </p>
 <h2>$ ls repos</h2>
 - Azure prep
