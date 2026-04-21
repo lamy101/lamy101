@@ -1,6 +1,8 @@
 <h2>$ whoami</h2>
 <br>
 My name is Lamyae. I will be using this GitHub account to document my progress in AI Security, Cloud Security, Bug Bounty and Python automation.  
+<br>
+
 
 My first goal is to pass the COAE -  HTB Certified Offensive AI Expert. 
 <br>
