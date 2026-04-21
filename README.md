@@ -16,10 +16,10 @@ My name is Lamyae. I will be using this GitHub account to show the different pro
 <h2>$ ls repos</h2>
 - AI Red Teaming (COAE) prep 
 <br>
-- Python automation
+- AZ-500 prep
 <br>
 - Bug Bounty prep
 <br>
-- AZ-500 prep
+- Python automation
 
 
