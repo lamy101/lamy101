@@ -8,9 +8,11 @@ My first goal is to pass the COAE -  HTB Certified Offensive AI Expert.
 <br>
 My second goal is to pass the AZ-500 - Azure Security Engineer Associate. 
 <br>
-My third goal is to advance in Bug Bounty and Vulnerability research. 
+My third goal is to pass the AWS Security - AWS Certified Security Specialty
 <br>
-My fourth goal is to advance in Python scripting and automation. 
+My fourth goal is to advance in Bug Bounty and Vulnerability research. 
+<br>
+My fifth goal is to advance in Python scripting and automation. 
 
 <h2>$ ls certifications</h2>
 <br>
@@ -29,8 +31,9 @@ My fourth goal is to advance in Python scripting and automation.
 <br>
 - AZ-500 prep
 <br>
+- AWS Security
+<br>
 - Bug Bounty prep
 <br>
 - Python automation
-
 
