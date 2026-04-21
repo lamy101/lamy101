@@ -3,7 +3,7 @@
 My name is Lamyae. I will be using this GitHub account to document my progress in AI Security, Cloud Security, Bug Bounty and Python automation.  
 <br>
 
-
+<br>
 My first goal is to pass the COAE -  HTB Certified Offensive AI Expert. 
 <br>
 My second goal is to pass the AZ-500 - Azure Security Engineer Associate. 
