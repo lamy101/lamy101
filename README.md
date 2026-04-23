@@ -4,9 +4,9 @@ My name is Lamyae. I will be using this GitHub account to document my progress i
 <br>
 
 <br>
-My first goal is to pass the COAE -  HTB Certified Offensive AI Expert. 
+My first goal is to pass the AZ-500 - Azure Security Engineer Associate.
 <br>
-My second goal is to pass the AZ-500 - Azure Security Engineer Associate. 
+My second goal is to pass the COAE -  HTB Certified Offensive AI Expert.
 <br>
 My third goal is to pass the AWS Security - AWS Certified Security Specialty
 <br>
