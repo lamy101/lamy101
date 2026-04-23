@@ -1,6 +1,6 @@
 <h2>$ whoami</h2>
 <br>
-My name is Lamyae. I will be using this GitHub account to document my progress in AI Security, Cloud Security, Bug Bounty and Python automation.  
+My name is Lamyae. This GitHub is where I document my journey in AI Security, Cloud Security, Bug Bounty, and Python automation. I use it to showcase hands-on labs, projects, and continuous learning as I grow my technical skills in cybersecurity. 
 <br>
 
 <br>
