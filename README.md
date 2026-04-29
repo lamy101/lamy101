@@ -3,16 +3,18 @@
 My name is Lamyae. This GitHub is where I document my journey in AI Security, Cloud Security, Bug Bounty, and Python automation. I use it to showcase hands-on labs, projects, and continuous learning as I grow my technical skills in cybersecurity. 
 <br>
 
+1) Log ingestion
 <br>
-My first goal is to pass the AZ-500 - Azure Security Engineer Associate.
+2) AZ-500 - Azure Security Engineer Associate.
 <br>
-My second goal is to pass the COAE -  HTB Certified Offensive AI Expert.
+3) COAE -  HTB Certified Offensive AI Expert.
 <br>
-My third goal is to pass the AWS Security - AWS Certified Security Specialty
+4) AWS Security - AWS Certified Security Specialty
 <br>
-My fourth goal is to advance in Bug Bounty and Vulnerability research. 
+5) Bug Bounty and Vulnerability research. 
 <br>
-My fifth goal is to advance in Python scripting and automation. 
+6) Python scripting and automation. 
+
 
 <h2>$ ls certifications</h2>
 <br>
