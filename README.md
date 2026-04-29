@@ -4,7 +4,7 @@ My name is Lamyae. This GitHub is where I document my journey in AI Security, Cl
 <br>
 <br>
 
-1) Log ingestion
+
 <br>
 2) AZ-500 - Azure Security Engineer Associate.
 <br>
@@ -15,7 +15,8 @@ My name is Lamyae. This GitHub is where I document my journey in AI Security, Cl
 5) Bug Bounty and Vulnerability research. 
 <br>
 6) Python scripting and automation. 
-
+<br>
+7) Threat Detection
 
 <h2>$ ls certifications</h2>
 <br>
