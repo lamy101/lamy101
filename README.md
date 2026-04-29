@@ -6,17 +6,17 @@ My name is Lamyae. This GitHub is where I document my journey in AI Security, Cl
 
 
 <br>
-2) AZ-500 - Azure Security Engineer Associate.
+1) AZ-500 - Azure Security Engineer Associate.
 <br>
-3) COAE -  HTB Certified Offensive AI Expert.
+2) COAE -  HTB Certified Offensive AI Expert.
 <br>
-4) AWS Security - AWS Certified Security Specialty
+3) AWS Security - AWS Certified Security Specialty
 <br>
-5) Bug Bounty and Vulnerability research. 
+4) Bug Bounty and Vulnerability research. 
 <br>
-6) Python scripting and automation. 
+5) Python scripting and automation. 
 <br>
-7) Threat Detection
+6) Threat Detection
 
 <h2>$ ls certifications</h2>
 <br>
