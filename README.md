@@ -6,7 +6,7 @@ My name is Lamyae. This GitHub is where I document my journey in AI Security, Cl
 
 
 <br>
-1) AZ-500 - Azure Security Engineer Associate.
+1) SC-500 -  Cloud and AI Security Engineer Associate
 <br>
 2) COAE -  HTB Certified Offensive AI Expert.
 <br>
@@ -33,7 +33,7 @@ My name is Lamyae. This GitHub is where I document my journey in AI Security, Cl
 <h2>$ ls repos</h2>
 - AI Red Teaming (COAE) prep 
 <br>
-- AZ-500 prep
+- SC-500 prep
 <br>
 - AWS Security
 <br>
