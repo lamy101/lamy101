@@ -44,4 +44,3 @@ My name is Lamyae. This GitHub is where I document my journey in AI Security, Cl
 <br>
 - Python automation
 <br>
-- Threat Detection
