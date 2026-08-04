@@ -31,7 +31,7 @@ My name is Lamyae. This GitHub is where I document my journey in AI Security, Cl
   <img src="burp.webp" alt="aw" width="90"/>
    <img src="oscp.png" alt="OS" width="90"/>
    <img src="aws.png" alt="aw" width="90"/>
-  
+  <img src="zt.png" alt="aw" width="90"/>
 </p>
 <h2>$ ls repos</h2>
 - AI Red Teaming (COAE) prep 
