@@ -16,7 +16,6 @@ My name is Lamyae. This GitHub is where I document my journey in AI Security, Cl
 <br>
 5) Python scripting and automation. 
 <br>
-6) Threat Detection
 
 <h2>$ ls certifications</h2>
 <br>
