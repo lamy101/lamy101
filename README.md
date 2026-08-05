@@ -1,21 +1,9 @@
 <h2>$ whoami</h2>
 <br>
-My name is Lamyae. This GitHub is where I document my journey in AI Security, Cloud Security, Threat Detection, Bug Bounty, and Python automation. I use it to showcase hands-on labs, projects, and continuous learning as I keep up with today's cyber landscape. 
+My name is Lamyae. This GitHub is where I document my journey in AI Security, Cloud Security and Pentesting. I use it to showcase hands-on labs, projects, and continuous learning as I keep up with today's cyber landscape. 
 <br>
 <br>
 
-
-<br>
-1) SC-500 -  Cloud and AI Security Engineer Associate
-<br>
-2) COAE -  HTB Certified Offensive AI Expert.
-<br>
-3) AWS Security - AWS Certified Security Specialty
-<br>
-4) Bug Bounty and Vulnerability research. 
-<br>
-5) Python scripting and automation. 
-<br>
 
 <h2>$ ls certifications</h2>
 <br>
@@ -40,7 +28,7 @@ My name is Lamyae. This GitHub is where I document my journey in AI Security, Cl
 <br>
 - AWS Security
 <br>
-- Bug Bounty prep
+- Bug Bounty Prep
 <br>
-- Python automation
+- AI/LLM/ML Penetration Testing
 <br>
