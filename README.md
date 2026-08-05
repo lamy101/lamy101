@@ -22,7 +22,8 @@ My name is Lamyae. This GitHub is where I document my journey in AI Security, Cl
 
 
 <p align="left">
-  <img src="blob.png" alt="Pen" width="90"/>
+  <img src="blob.png" alt="Pen" width="90"/> 
+  <img src="zt.jpg" alt="aw" width="90"/>
 <br>
   <img src="coae.webp" alt="aw" width="90"/>
   <img src="azure1.jpg" alt="OS" width="130"/>
