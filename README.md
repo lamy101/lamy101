@@ -24,11 +24,11 @@ My name is Lamyae. This GitHub is where I document my journey in AI Security, Cl
 <h2>$ ls repos</h2>
 - AI Red Teaming (COAE) prep 
 <br>
+- AI/LLM/ML Penetration Testing
+<br>
 - SC-500 prep
 <br>
 - AWS Security
 <br>
 - Bug Bounty Prep
-<br>
-- AI/LLM/ML Penetration Testing
 <br>
