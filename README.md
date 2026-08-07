@@ -24,7 +24,7 @@ My name is Lamyae. This GitHub is where I document my journey in AI Security, Cl
 <h2>$ ls repos</h2>
 - AI Red Teaming (COAE) prep 
 <br>
-- AI/LLM/ML Penetration Testing
+- AI/LLM/ML Penetration Testing course
 <br>
 - SC-500 prep
 <br>
