@@ -26,7 +26,7 @@ My name is Lamyae. This GitHub is where I document my journey in AI Security, Cl
 <br>
 - AI/LLM/ML Penetration Testing course
 <br>
-- SC-500 prep
+- SC-500 (Cloud AI cert) prep
 <br>
 - AWS Security
 <br>
