@@ -30,5 +30,6 @@ My name is Lamyae. This GitHub is where I document my journey in AI Security, Cl
 <br>
 - AWS Security
 <br>
-- Bug Bounty Prep
+- Web Penetration Tester
 <br>
+- Bug Bounty 
