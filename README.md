@@ -1,6 +1,6 @@
 <h2>$ whoami</h2>
 <br>
-My name is Lamyae. This GitHub is where I document my journey in AI Security, Cloud Security and anything I learn in between. I use it to showcase hands-on labs, projects, and continuous learning as I keep up with today's cyber landscape. 
+My name is Lamyae. This GitHub is where I document my journey in AI Security, Cloud Security and anything I learn in between. I use it to showcase hands-on labs, projects, and continuous learning as I keep up with today's cyber landscape . 
 <br>
 <br>
 
