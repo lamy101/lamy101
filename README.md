@@ -27,9 +27,4 @@ My name is Lamyae. This GitHub is where I document my journey in AI Security, Cl
 - AI Red Teaming (COAE) prep
 <br>
 - AI/LLM/ML Penetration Testing course
-<br>
-- AWS Security
-<br>
-- Bug Bounty
-<br>
-- Cloud AI cert (SC 500)
+
