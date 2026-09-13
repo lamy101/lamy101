@@ -22,7 +22,7 @@ My name is Lamyae. This GitHub is where I document my journey in AI Security, Cl
   
 </p>
 <h2>$ ls repos</h2>
-- AI fundamentals 
+- Threat Detection 
 <br>
 - AI Red Teaming (COAE) prep
 <br>
