@@ -23,5 +23,7 @@ My name is Lamyae. This GitHub is where I document my journey in AI Security, Cl
 <h2>$ ls repos</h2>
 - AI Red Teaming (COAE) prep
 <br>
-- Azure Project
+- Brute Force Detector
+<br>
+- The Azure Project
 
