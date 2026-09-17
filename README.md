@@ -14,7 +14,7 @@ My name is Lamyae. This GitHub is where I document my journey in AI Security, Cl
   <img src="zt.jpg" alt="aw" width="90"/>
   <img src="coae.png" alt="aw" width="90"/>
 <br>
-  <img src="az104.png" alt="OS" width="130"/>
+  <img src="az104.png" alt="OS" width="190"/>
   <img src="azure1.jpg" alt="OS" width="130"/>
   <img src="SA.png" alt="aw" width="90"/>
    <img src="oscp.png" alt="OS" width="90"/>
